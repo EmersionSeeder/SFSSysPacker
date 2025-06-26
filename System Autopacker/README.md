@@ -1,0 +1,1 @@
+Copy a folder with "GENERATED", "TEXTURES", and "HEIGHTMAPS" into IN, run the script, and place the packs in Custom Solar Systems.

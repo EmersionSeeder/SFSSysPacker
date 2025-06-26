@@ -1,0 +1,83 @@
+{
+  "version": "1.5",
+  "BASE_DATA": {
+    "radius": 12000073.54,             
+    "radiusDifficultyScale": {},
+    "gravity": 3540000.0,
+    "gravityDifficultyScale": {},
+    "timewarpHeight": 500000.0,
+    "velocityArrowsHeight": 0.0,
+    "mapColor": {
+      "r": 0.0,
+      "g": 0.0,
+      "b": 0.0,
+      "a": 1.0
+    }
+  },
+    "TERRAIN_DATA": {
+    "TERRAIN_TEXTURE_DATA": {
+      "planetTexture": "Sagittarius_a",
+      "planetTextureCutout": 0.995,
+      "surfaceTexture_A": "Ice",
+      "surfaceTextureSize_A": {
+        "x": -1.0,
+        "y": -1.0
+      },
+      "surfaceTexture_B": "Ice",
+      "surfaceTextureSize_B": {
+        "x": -1.0,
+        "y": -1.0
+      },
+      "terrainTexture_C": "Ice",
+      "terrainTextureSize_C": {
+        "x": -1.0,
+        "y": -1.0
+      },
+      "surfaceLayerSize": 60.0,
+      "minFade": 0.0,
+      "maxFade": 0.6,
+      "shadowIntensity": 50.0,
+      "shadowHeight": 0.0
+    },
+    "terrainFormula": [],
+    "textureFormula": [],
+    "verticeSize": 5.0
+  },
+  "ATMOSPHERE_PHYSICS_DATA": {
+    "height": 300000.0,
+    "density": 1000000.0,
+    "curve": 15.0,
+    "curveScale": {},
+    "parachuteMultiplier": 3.0,
+    "upperAtmosphere": 7.0,
+    "heightDifficultyScale": {},
+    "shockwaveIntensity": 99.0,
+    "minHeatingVelocityMultiplier": 99.0
+  },
+  "ATMOSPHERE_VISUALS_DATA": {
+    "GRADIENT": {
+      "positionZ": 40000,
+      "height": 180000000.0,
+      "texture": "Sagittarius_a_disk"
+    },
+    "CLOUDS": {
+      "texture": "None",
+      "startHeight": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "alpha": 0.65,
+      "velocity": 0.0
+    },
+    "FOG": {
+      "keys": []
+    }
+  },
+  "ACHIEVEMENT_DATA": {
+    "Landed": false,
+    "Takeoff": false,
+    "Atmosphere": false,
+    "Orbit": true,
+    "Crash": false
+  },
+  "LANDMARKS": []
+}
