@@ -3,4 +3,4 @@ The System Autopacker is a python script designed to convert System Autogenerato
 # Instructions
 1. Copy a folder with "GENERATED", "TEXTURES", and "HEIGHTMAPS" into IN
 2. Run the script
-3. Place the packs into Custom Solar Systems.
+3. Place the packs in OUT into Custom Solar Systems.
